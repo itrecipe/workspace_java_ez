@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.kook.myProject1_Test&apos; to &apos;com.ezen.myProject1_Test&apos;&#x0D;&#x0A;- Original project: &apos;myProject1_Test&apos;&#x0D;&#x0A;- Original element: &apos;myProject1_Test/src/com.kook.myProject1_Test&apos;&#x0D;&#x0A;- Renamed element: &apos;myProject1_Test/src/com.ezen.myProject1_Test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.kook.myProject1_Test&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.kook.myProject1_Test" name="com.ezen.myProject1_Test" qualified="false" references="true" stamp="1674997026986" textual="false" version="1.0"/>
+</session>
